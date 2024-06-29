@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:tc:postgresql:14-alpine:///spring-blog
+    url: jdbc:tc:postgresql:14-alpine:///web-api
   sql:
     init:
       mode: always
