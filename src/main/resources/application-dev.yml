@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/web-api
-    username: postgres
-    password: Kk070809
+    url: jdbc:postgresql://cd1goc44htrmfn.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/d3p1ksuh3lit5q
+    username: u4otok422rj5fm
+    password: p487769562513b4b8728351ace1d14a23ce4263fa0c4d9cea0a268aa7f2d2bb18
 
   sql:
     init:
